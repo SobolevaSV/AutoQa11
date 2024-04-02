@@ -1,0 +1,7 @@
+![allure1](https://github.com/SobolevaSV/AutoQa11/assets/138288387/f691e2a4-b0fd-4e41-bbc3-47ace717f282)
+![allure2](https://github.com/SobolevaSV/AutoQa11/assets/138288387/4ed5b53d-1973-4d10-b4ff-ba8d9c1900e0)
+![allure3](https://github.com/SobolevaSV/AutoQa11/assets/138288387/a7ac8b46-399f-4b3e-8c75-1d108e4e7b2f)
+![allure4](https://github.com/SobolevaSV/AutoQa11/assets/138288387/a56d62a7-ff9d-486d-ba93-00b0c2b1dfb4)
+![allure5](https://github.com/SobolevaSV/AutoQa11/assets/138288387/3f4aac57-d9bd-47dc-a694-7f19ed2acef6)
+![allure6](https://github.com/SobolevaSV/AutoQa11/assets/138288387/6f384a44-857f-4a0d-ac06-a66630f1abd4)
+![allure7](https://github.com/SobolevaSV/AutoQa11/assets/138288387/f84e17a3-14bf-46ae-980f-f664990d1132)
